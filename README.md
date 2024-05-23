@@ -1,5 +1,7 @@
 # UnityVR-RGB-Channel-Splitter
+![UnityVR-RGB-Channel-Splitter](https://github.com/Mohammad-Elahi/UnityVR-RGB-Channel-Splitter/assets/93424032/ecb61d63-a15b-4d68-bd57-508da10f9295)
 
+# Description
 This repository contains the Unity VR project with an added RGB splitter feature. This project is an extension of the VR-Head-Motion-Simulator project.
 
 ## Requirements
