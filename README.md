@@ -1,4 +1,4 @@
-# UnityVR-RGB-Channel-Splitter
+# [UnityVR-RGB-Channel-Splitter](https://github.com/Mohammad-Elahi/UnityVR-RGB-Channel-Splitter)
 ![UnityVR-RGB-Channel-Splitter](https://github.com/Mohammad-Elahi/UnityVR-RGB-Channel-Splitter/assets/93424032/ecb61d63-a15b-4d68-bd57-508da10f9295)
 
 # Description
