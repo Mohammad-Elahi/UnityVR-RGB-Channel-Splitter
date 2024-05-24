@@ -16,6 +16,7 @@ Unity Editor version 2022.3.19f1. If you want to download the repository and run
 1. Create a C# script in the Assets part and copy the code to it.
 2. Right-click on the VRHeadset GameObject in the hierarchy and Create Empty Object. Rename it to RGBSeparator.
 3. Attach the RGBSeparation.cs script to the RGBSeparator Object.
+4. Create `Recordings` folder on the project folder.
 
 ## Code
 ```
