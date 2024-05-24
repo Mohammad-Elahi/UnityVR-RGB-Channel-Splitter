@@ -4,8 +4,6 @@
 # Description
 This repository contains the Unity VR project with an added RGB splitter feature. This project is an extension of the VR-Head-Motion-Simulator project.
 
-## license
-
 ## Requirements
 Unity Editor version 2022.3.19f1. If you want to download the repository and run it in your Unity, you should adjust your Unity editor version to 2022.3.19f1. Alternatively, you can use the instructions and C# code with your own Unity editor version.
 
