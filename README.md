@@ -2,7 +2,7 @@
 ![UnityVR-RGB-Channel-Splitter](https://github.com/Mohammad-Elahi/UnityVR-RGB-Channel-Splitter/assets/93424032/ecb61d63-a15b-4d68-bd57-508da10f9295)
 
 # Description
-This repository contains the Unity VR project with an added RGB splitter feature which captures screenshots from each frame and separates them to RGB channels. This project is an extension of the [VR-Head-Motion-Simulator](https://github.com/Mohammad-Elahi/VR-Head-Motion-Simulator) project.
+This repository hosts a Unity VR project that has been enhanced with an RGB splitter feature. This innovative feature captures screenshots from each frame, then seprates them into their respective RGB channels, facilitating a detailed comparison. This project is an extension of the [VR-Head-Motion-Simulator](https://github.com/Mohammad-Elahi/VR-Head-Motion-Simulator) project.
 
 ## Requirements
 Unity Editor version 2022.3.19f1. If you want to download the repository and run it in your Unity, you should adjust your Unity editor version to 2022.3.19f1. Alternatively, you can use the instructions and C# code with your own Unity editor version.
