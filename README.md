@@ -16,7 +16,7 @@ Unity Editor version 2022.3.19f1. If you want to download the repository and run
 1. Create a C# script in the Assets part and copy the code to it.
 2. Right-click on the VRHeadset GameObject in the hierarchy and Create Empty Object. Rename it to RGBSeparator.
 3. Attach the RGBSeparation.cs script to the RGBSeparator Object.
-4. Create `Recordings` folder on the project folder.
+4. Create a `Recordings` folder in the root directory of the project folder.
 
 ## Code
 ```
@@ -26,6 +26,7 @@ using UnityEngine;
 
 public class RGBSeparation : MonoBehaviour
 {
+    // Set the path where recorded frames will be saved
     public string folderPath = "your_Recordings_folder_path";
     public int frameRate = 30;
 
@@ -132,7 +133,7 @@ private void SplitIntoChannels(Texture2D original, out Texture2D red, out Textur
     }
 }
 ```
-Note: Replace the `your_Recordings_folder_path` with the path of your `Recordings` folder.
+Note: Remember to replace the `your_Recordings_folder_path` with the path of your `Recordings` folder.
 
 # Author
 Mohammad Elahi, TU Dresden, Vodafone Chair, mohammad.elahi@mailbox.tu-dresden.de
